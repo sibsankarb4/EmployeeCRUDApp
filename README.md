@@ -1,3 +1,4 @@
 # EmployeeCRUDApp
 
-Employee Management System :: Create/Red/Update/Delete Operations
+Employee Management System
+CRUD = Create, Read, Update and Delete Operations.
