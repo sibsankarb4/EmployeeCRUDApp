@@ -31,7 +31,7 @@ public class Employeecontroller {
 	//for testing purpose
 	@GetMapping("/info")
 	public String welcome() {
-		return "++++++++++++++++++++++++++++ Welcome to Spring Boot and MongoDB demo .++++++++++++++++++++++++++++ ";
+		return "++++++++++++++++++++++++++++ Welcome to Spring Boot and MongoDB demo :: Employee Management Syatem :: ++++++++++++++++++++++++++++ ";
 	}
 
 
